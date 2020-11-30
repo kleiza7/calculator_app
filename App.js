@@ -7,7 +7,6 @@ import {
   ScrollView,
   View,
   Text,
-  StatusBar,
   TouchableOpacity,
   TextInput,
 } from 'react-native';
